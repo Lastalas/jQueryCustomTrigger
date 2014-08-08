@@ -1,0 +1,1 @@
+Simple example of using jquery to trigger custom events.
